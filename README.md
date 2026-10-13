@@ -6,7 +6,7 @@
 <div align="center">
 
 <a href="https://github.com/rohit-cr79">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F172A,45:1D4ED8,100:06B6D4&text=Rohit%20Varma&fontColor=FFFFFF&fontSize=54&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%7C%20Cloud%20%7C%20System%20Design&descAlignY=60&descSize=17&animation=fadeIn" alt="Rohit Varma — Software Engineer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F172A,45:1D4ED8,100:06B6D4&text=Rohit%20Varma&fontColor=FFFFFF&fontSize=54&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%7C%20Cloud%20%7C%20System%20Design&descAlignY=60&descSize=17&animation=fadeIn" alt="Kalididdi Jayarohit Varma — Software Engineer" width="100%" />
 </a>
 
 <a href="https://git.io/typing-svg">
@@ -27,7 +27,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a Software Engineer with **3.5+ years of professional experience** building backend services, microservices, cloud-native applications, and AI-powered features.
+I'm a Software Engineer with **4+ years of professional experience** building backend services, microservices, cloud-native applications, and AI-powered features.
 
 I enjoy the engineering behind the product: understanding requirements, choosing the right architecture, designing service boundaries, and making systems reliable and maintainable. My experience includes LMS platforms, real-time learning and streaming systems, code execution infrastructure, and RAG-based assistants.
 
@@ -168,33 +168,6 @@ I enjoy the engineering behind the product: understanding requirements, choosing
 
 <sub>These highlights describe work from my professional experience. They are not necessarily public repositories; links will be added when a project can be shared publicly.</sub>
 
-## 🔭 What I'm Building Toward
-
-I'm currently exploring the architecture of a modern assessment and AI mock-interview platform.
-
-```text
-Candidate
-   │
-   ▼
-Assessment / Interview API
-   ├── Coding Engine ──► Sandboxed Execution ──► Test Results
-   ├── Interview Engine ──► Contextual Follow-up Questions
-   ├── Session Services ──► Voice / Real-Time Communication
-   └── Evaluation Pipeline ──► Results & Feedback
-```
-
-The areas I'm investigating include Judge0 CE integration, isolated code execution, scalable workers, test-case evaluation, real-time voice interviews, and dynamic follow-up questions based on candidate responses.
-
-## 📊 GitHub Dashboard
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rohit-cr79&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-cr79&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages"/>
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=rohit-cr79&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-</div>
-
-<sub>Stats are rendered by external services and may occasionally be unavailable or delayed. Language statistics reflect repository contents, not necessarily overall proficiency.</sub>
 
 ## 🎓 Education
 
